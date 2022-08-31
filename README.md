@@ -4,7 +4,7 @@
 
 ## 表情速览
 
-| ![](https://valinecdn.bili33.top/bilibiliHotKey/7.jpg) |  ![](https://valinecdn.bili33.top/bilibilitv/[tv_doge].png)  | ![](https://valinecdn.bili33.top/bilibili2233/[2233娘_第一].png) |
-| :----------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|          [B站热词系列](Scanning/bilibili.md)           | [滑稽表情包](https://github.com/asa-world/emotion/blob/main/Scanning/huaji) | [heo系列](https://github.com/asa-world/emotion/blob/main/Scanning/heo) |
+| ![](https://valinecdn.bili33.top/bilibiliHotKey/7.jpg) | ![](https://valinecdn.bili33.top/bilibilitv/[tv_doge].png) | ![](https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/害羞.png) |
+| :----------------------------------------------------: | :--------------------------------------------------------: | :----------------------------------------------------------: |
+|          [B站热词系列](Scanning/bilibili.md)           |              [滑稽表情包](Scanning/huaji.md)               |                  [heo系列](Scanning/heo.md)                  |
 
