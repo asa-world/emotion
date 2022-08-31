@@ -1,4 +1,4 @@
 # heo系列
 
-[emotion](https://emotion.xiaokang.me/#/emotion/Heo-100)
+![emotion](https://github.com/zhheo/Sticker-Heo/blob/main/img/v1/表情预览.png?raw=true)
 
